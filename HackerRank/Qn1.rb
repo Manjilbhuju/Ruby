@@ -17,5 +17,5 @@ def sockMerchant(n, ar)
 end
 
 n = 7
-ar = [1,2,1,2,1,3,2]
+ar = [1,2,1,9,1,3,0]
 puts sockMerchant(n, ar)

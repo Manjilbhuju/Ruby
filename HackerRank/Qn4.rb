@@ -3,11 +3,6 @@ There is a string, , of lowercase English letters that is repeated infinitely ma
 Given an integer, find and print the number of letter a's in the first n  letters of the infinite string.
 =end
 
-=begin
-1) find the number of times s should be multiplied to reach <= n
-2) 
-=end
-
 def repeatedString(s, n)
     # no of a in s
     a_in_s = s.count('a')
